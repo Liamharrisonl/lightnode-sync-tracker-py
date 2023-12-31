@@ -46,3 +46,4 @@
 # fix 7114
 # refactor 7508
 # refactor 6837
+# refactor 3674
