@@ -51,3 +51,4 @@ pydantic==0.0.5
 pydantic==0.5.2
 pydantic==0.4.6
 web3==1.2.1
+eth-abi==1.7.4
