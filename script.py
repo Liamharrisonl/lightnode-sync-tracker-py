@@ -58,3 +58,4 @@
 # fix 2322
 # refactor 6966
 # fix 5892
+# refactor 7348
