@@ -5,3 +5,4 @@
 - Update note 7804
 - Update note 2264
 - Update note 8162
+- Update note 1047
