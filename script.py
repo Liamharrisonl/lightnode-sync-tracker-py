@@ -12,3 +12,4 @@
 # optimize 8080
 # refactor 8813
 # fix 4449
+# optimize 6802
